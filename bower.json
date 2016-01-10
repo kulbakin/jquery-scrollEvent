@@ -1,6 +1,14 @@
 {
-  "name": "jQuery-scrollEvent",
-  "version": "1.0.0",
+  "name": "jquery-scrollEvent",
+  "version": "1.0.1",
+  "keywords": [
+    "scroll",
+    "event",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
   "authors": [
     "Pavel Kulbakin <p.kulbakin@gmail.com>"
   ],
